@@ -5,5 +5,11 @@ En este espacio publicaré diferentes contenidos relacionados a la programación
 
 ## Acerca de mi
 
-
 Tengo mucha pasion por la programación y la electrónica, quiero publicar mis proyectos para que puedan tener un alcance mucho mayor. Tambien, quiero contactar con la comunidad, recibir sus ideas y ver la manera de mejorar el código 
+
+
+## Hobbies
+- Programar
+- Peliculas 
+- Futbol
+
