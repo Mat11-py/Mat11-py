@@ -8,3 +8,13 @@ En este espacio publicaré diferentes contenidos relacionados a la programación
 ---
 
 Tengo mucha pasion por la programación y la electrónica, quiero publicar mis proyectos para que puedan tener un alcance mucho mayor. Tambien, quiero contactar con la comunidad, recibir sus ideas y ver la manera de mejorar el código 
+
+## Tecnologías
+---
+- CSS
+- HTML
+- JAVASCRIPT
+- PYTHON
+- C
+- GIT 
+- GITHUB
