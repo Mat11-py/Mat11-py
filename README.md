@@ -23,6 +23,12 @@ Tengo mucha pasion por la programación y la electrónica, quiero publicar mis p
 - Liderazgo
 - Asertividad
 
+## Idiomas 
+
+- Español
+- Inglés
+
+
 ## Hobbies
 - Programar
 - Peliculas 
