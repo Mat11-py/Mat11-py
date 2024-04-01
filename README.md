@@ -14,6 +14,8 @@ Tengo mucha pasion por la programación y la electrónica, quiero publicar mis p
 - JAVASCRIPT
 - PYTHON
 - C
+- ARDUINO
+- ESP32
 
 ## Habilidades
 
