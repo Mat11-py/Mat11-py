@@ -16,6 +16,7 @@ Tengo mucha pasion por la programación y la electrónica, quiero publicar mis p
 - C
 - ARDUINO
 - ESP32
+- Matlab
 
 ## Habilidades
 
