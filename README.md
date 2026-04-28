@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Mateo ⚙🚀</h1>
 
 <p align="center">
-  🏅 Estudiante de Ingeniería Mecatrónica | Universidad Tecnológica del Perú <br>
+  🏅 Bachiller de Ingeniería Mecatrónica | Universidad Tecnológica del Perú <br>
   🤖 Apasionado por la IA, la robótica y sus aplicaciones en percepción, automatización y control <br>
 </p>
 
@@ -9,7 +9,7 @@
 
 ## 🚀 Acerca de mí
 
-Soy estudiante del décimo ciclo de Ingeniería Mecatrónica. Me apasiona la programación, la electrónica y la Inteligencia Artificial aplicada a la robótica. Me interesa compartir mis proyectos y conectar con personas que tengan ideas nuevas o sugerencias para mejorar.
+Bachiller de Ingeniería Mecatrónica. Me apasiona la programación, la electrónica y la Inteligencia Artificial aplicada a la robótica. Me interesa compartir mis proyectos y conectar con personas que tengan ideas nuevas o sugerencias para mejorar.
 
 Me destaco por mi capacidad de trabajo en equipo, liderazgo, comunicación efectiva y orientación a resultados.
 
